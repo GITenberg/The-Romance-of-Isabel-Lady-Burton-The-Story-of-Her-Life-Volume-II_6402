@@ -1,0 +1,34 @@
+_repo: The-Romance-of-Isabel-Lady-Burton-The-Story-of-Her-Life-Volume-II_6402
+creator:
+  authors:
+  - agent_name: Burton, Isabel, Lady
+    aliases:
+    - Burton, Isabel Arundell, Lady
+    - Burton, Lady Isabel
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '899'
+    url: http://www.gutenberg.org/2009/agents/899
+  - agent_name: Wilkins, W. H. (William Henry)
+    alias: Wilkins, William Henry
+    birthdate: 1860
+    deathdate: 1905
+    gutenberg_agent_id: '2026'
+    url: http://www.gutenberg.org/2009/agents/2026
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Burton, Isabel, Lady, 1831-1896'
+- !lcsh 'Burton, Richard Francis, Sir, 1821-1890'
+- !lcsh 'Adventure and adventurers'
+- !lcsh 'Wives -- Great Britain -- Biography'
+title: 'The Romance of Isabel Lady Burton: The Story of Her Life. Volume II'
+url: http://www.gutenberg.org/ebooks/6402
